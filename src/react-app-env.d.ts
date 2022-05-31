@@ -1,2 +1,1 @@
-/// <reference types="react-scripts" />
-react - dom / client
+// <reference types="react-scripts" />
